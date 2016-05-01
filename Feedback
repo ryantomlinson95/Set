@@ -1,0 +1,18 @@
+Grade: 87
+
+## Documentation ##
+Good. Although you said how to simply get the game running in your README, you didn't include how to play the game. On the other hand, your in-code documentation is excellent
+
+^ UPDATED to Good/Excellent. Next time be sure to include all instructions and your NAMES in your Readme
+
+## Correctness ##
+Excellent. The game ran as expected without any errors. I could not find a bug.
+
+## Functionality / Features ##
+Fair. Score is only shown at the end. Only one live player can play at a time. Timer and computer opponent is a nice addition.
+
+## Style ##
+Excellent. Code is very clear, elegant, and follows all standards.
+
+## Design ##
+Excellent. Clean class and API use, along with a clear separation of abstraction and concrete representation 
